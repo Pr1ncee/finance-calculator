@@ -181,9 +181,6 @@ dist/
 # JetBrains IDE
 .idea/
 
-# production
-/build
-
 # Unit test reports
 TEST*.xml
 
